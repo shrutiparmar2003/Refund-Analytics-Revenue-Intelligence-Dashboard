@@ -3,6 +3,19 @@
 A full-cycle data analytics project focused on refund intelligence and revenue risk assessment using **Python (pandas)**, **SQL (MySQL)**, and **Power BI**. This project simulates real-world data handling, metric design, and dynamic dashboarding for business-critical decision-making.
 
 ---
+<h3>Refund Dashboard - Visual 1</h3>
+<img src="https://raw.githubusercontent.com/shrutiparmar2003/Refund-Analytics-Revenue-Intelligence-Dashboard/main/PowerBI%20dashboard%20images/image1.png" alt="Dashboard Image 1" width="700">
+
+<br/>
+
+<h3>Refund Dashboard - Visual 2</h3>
+<img src="https://raw.githubusercontent.com/shrutiparmar2003/Refund-Analytics-Revenue-Intelligence-Dashboard/main/PowerBI%20dashboard%20images/img2.png" alt="Dashboard Image 2" width="700">
+
+<br/>
+
+<h3>Refund Dashboard - Visual 3</h3>
+<img src="https://raw.githubusercontent.com/shrutiparmar2003/Refund-Analytics-Revenue-Intelligence-Dashboard/main/PowerBI%20dashboard%20images/img3.png" alt="Dashboard Image 3" width="700">
+
 
 ## Project Objective
 
@@ -48,12 +61,17 @@ Created a structured, multi-tab dashboard with:
 
 ---
 
-## Sample Insights
+## Key Insights & Business Takeaways
 
-- 📉 Total refund amount: **~£479K**, nearly **4.6%** of total revenue
-- 🇺🇸 **USA** shows over **50% refund rate** relative to its revenue
-- 🔄 A few product SKUs are responsible for **majority of refund losses**
-- 🕒 Sales and refunds vary significantly by **hour and weekday**
+- Registered customers drove ~89% of revenue
+- Refunds accounted for ~4.64% of revenue (~£479K)
+- USA had an unusually high refund rate of 51.66%
+- Revenue peaked in November & December (seasonal trend)
+- Refunds spiked on Fridays — potential batch return behavior
+- Some top-selling products also had high refund rates (>10%)
+
+These insights can help e-commerce businesses refine product quality, target customer retention, and reduce operational loss.
+
 
 ---
 

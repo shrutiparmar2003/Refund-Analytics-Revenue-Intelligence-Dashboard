@@ -54,11 +54,15 @@ Executed 20+ optimized SQL queries to extract:
 ### 🔹 3. Dashboard Design (Power BI)
 Created a structured, multi-tab dashboard with:
 
-- **Executive Summary** – KPIs, revenue funnels, time-based trends
-- **Refund Risk View** – Refund % heatmap, product-level refund outliers
-- **Customer/Product Analytics** – Pareto analysis, top contributors
-- **Slicers** – Dynamic filtering by country, date, customer type, etc.
+- **Page 1**: Revenue overview (KPIs, country-wise revenue, customer types)
+- **Page 2**: Refund analysis (refund hotspots, product-wise refund %)
+- **Page 3**: Customer & product performance (top customers, refund-prone items)
 
+#### Visuals Used
+
+- **Cards** – for KPIs (revenue, refund %)
+- **Bar & Line Charts** – for comparison and trends
+- **Donut Charts** – for contribution analysis
 ---
 
 ## Key Insights & Business Takeaways
